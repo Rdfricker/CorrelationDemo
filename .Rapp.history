@@ -1,0 +1,7 @@
+?require
+library(shiny)
+runApp("/Users/rdfricker/Desktop/BivariateNormExample")
+?include.package
+?install.package
+?install.packages
+runApp("/Users/rdfricker/Desktop/BivariateNormExample")
